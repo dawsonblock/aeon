@@ -1,0 +1,6 @@
+{
+  "name": "AEON v0.1",
+  "description": "An event-sourced, verifier-driven AI operating system for autonomous work, implemented as a Node.js/TypeScript spine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

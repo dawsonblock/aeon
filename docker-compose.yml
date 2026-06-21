@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  aeon-db:
+    image: postgres:16-alpine
+    container_name: aeon-db
+    environment:
+      POSTGRES_USER: aeon_admin
+      POSTGRES_PASSWORD: aeon_secure_password_99
+      POSTGRES_DB: aeon_os
+    ports:
+      - "5432:5432"
+    volumes:
+      - aeon_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U aeon_admin -d aeon_os"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  aeon-spine:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: aeon-spine
+    ports:
+      - "3000:3000"
+    environment:
+      - DATABASE_URL=postgres://aeon_admin:aeon_secure_password_99@aeon-db:5432/aeon_os
+      - PORT=3000
+      - NODE_ENV=development
+    depends_on:
+      aeon-db:
+        condition: service_healthy
+
+volumes:
+  aeon_pgdata:

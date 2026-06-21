@@ -1,11 +1,51 @@
-<div align="center">
+# AEON v0.1-alpha
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+AEON is a local-first, event-sourced, verifier-driven AI operating system for autonomous work.
 
-  <h1>Built with AI Studio</h2>
+## Core Architecture
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+AEON organizes operations through a strict, append-only immutable event spine:
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+```
+User (Message/Goal)
+   ↳ POST /chat
+         ↳ AEON Engine
+               ↳ Create Trace (if null)
+               ↳ Append Events (immutably log all trace steps)
+```
 
-</div>
+## Required Stack
+
+- Node.js 22 & TypeScript
+- Express
+- PostgreSQL 16 with `pgvector`
+- Drizzle ORM
+- Zod Request/Data Validation
+
+---
+
+## API Endpoints
+
+### Health Check
+- `GET /api/health` -> Returns `{ "status": "ok" }`
+
+### Chat Operation
+- `POST /api/chat` -> Validates request of format:
+  ```json
+  {
+    "message": "My query goal",
+    "traceId": null,
+    "metadata": {}
+  }
+  ```
+  Returns `ChatResponse` with trace tracking IDs.
+
+### Trace Management
+- `POST /api/traces` -> Create a new trace manually
+- `GET /api/traces` -> List all active or historic traces
+- `GET /api/traces/:traceId` -> Get specific trace details
+- `GET /api/traces/:traceId/events` -> Get trace timeline ordered by sequence/timestamp
+
+### Event Read Operations
+- `GET /api/events/:eventId` -> Retrieve unique event ledger record.
+- **Note**: Modifying (PUT, PATCH) or Deleting (DELETE) events results in an automatic database error to protect transaction logs.

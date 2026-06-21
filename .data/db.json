@@ -1,0 +1,4259 @@
+{
+  "traces": [
+    {
+      "trace_id": "2e13e489-4458-4449-b26e-5fa5c7093314",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T04:55:48.135Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T04:55:48.136Z"
+    },
+    {
+      "trace_id": "3c0cc064-9308-427a-9db3-5f02b4d897fb",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T04:55:48.139Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T04:55:48.139Z"
+    },
+    {
+      "trace_id": "861f08b2-bfe1-4e0c-9d7b-488f8d5cd7a0",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T04:55:48.140Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T04:55:48.140Z"
+    },
+    {
+      "trace_id": "eb084ad8-eacc-45e4-8d42-39f4b1b196d9",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T04:55:48.141Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T04:55:48.141Z"
+    },
+    {
+      "trace_id": "8b38afb9-c7d7-4ce2-94ff-24dea3b36adf",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T04:55:48.932Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T04:55:48.932Z"
+    },
+    {
+      "trace_id": "3b767518-0f96-4980-bc3a-ea4c978a5d66",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T04:55:48.936Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T04:55:48.936Z"
+    },
+    {
+      "trace_id": "b38323a0-2779-488c-9785-91c7b3dbf609",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T04:55:49.724Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T04:55:49.725Z"
+    },
+    {
+      "trace_id": "cbbe9343-d724-4312-8cb8-95c42c44392a",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T04:55:49.727Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T04:55:49.727Z"
+    },
+    {
+      "trace_id": "79d3353b-0191-4af3-a167-a4b0b9fba58c",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T04:55:49.729Z",
+      "end_time": "2026-06-21T04:55:49.729Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T04:55:49.729Z"
+    },
+    {
+      "trace_id": "cf686adf-0008-40de-9f13-ea359e253ca8",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:06:20.242Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:06:20.242Z"
+    },
+    {
+      "trace_id": "09958237-bf1d-4b3c-89ec-c450f977d24a",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:06:20.246Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:06:20.246Z"
+    },
+    {
+      "trace_id": "73c482b7-f7fd-49b2-b52d-5cc5478408d6",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:06:20.247Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:06:20.247Z"
+    },
+    {
+      "trace_id": "329ed3d9-9afd-4793-ab57-97bae1201480",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:06:20.249Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:06:20.249Z"
+    },
+    {
+      "trace_id": "c13835e2-be59-475f-bbcf-a74b5dba5fb2",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:06:21.064Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:06:21.064Z"
+    },
+    {
+      "trace_id": "84a027fa-53c5-428a-9472-cf6a6b87c7ff",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:06:21.068Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:06:21.068Z"
+    },
+    {
+      "trace_id": "839a0775-222c-4e39-b0f0-6a18f415ce0f",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:06:21.880Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:06:21.881Z"
+    },
+    {
+      "trace_id": "f2b84f2e-4b1b-4785-b4ae-0f51ed630dac",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:06:21.883Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:06:21.883Z"
+    },
+    {
+      "trace_id": "acf6eb95-6e5b-40d3-be18-443b49d0a40a",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T05:06:21.884Z",
+      "end_time": "2026-06-21T05:06:21.885Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T05:06:21.884Z"
+    },
+    {
+      "trace_id": "da0a071c-4ab6-4d53-a344-3dd36f63cf87",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:14:01.074Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:14:01.074Z"
+    },
+    {
+      "trace_id": "58e82dc3-4d9c-4d7f-a6cb-647205a1e6ad",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:14:01.078Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:14:01.078Z"
+    },
+    {
+      "trace_id": "5f532e7f-5c11-442b-a83f-5e2050b85131",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:14:01.080Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:14:01.080Z"
+    },
+    {
+      "trace_id": "f80d997a-61ae-4c94-ad3a-831c5d4f997d",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:14:01.082Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:14:01.082Z"
+    },
+    {
+      "trace_id": "6591fc7f-330d-45d8-93bf-a14b7702c1b5",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:14:01.876Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:14:01.877Z"
+    },
+    {
+      "trace_id": "fccac463-f623-46c8-bb5a-f9d66a92e227",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:14:01.881Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:14:01.881Z"
+    },
+    {
+      "trace_id": "c1ba09c6-f2a4-444a-990c-40c4ac548b3e",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:14:02.677Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:14:02.677Z"
+    },
+    {
+      "trace_id": "f66d2970-6ed7-497e-b0e4-d68573f9958c",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:14:02.680Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:14:02.680Z"
+    },
+    {
+      "trace_id": "0c23f97b-40b8-4287-aa21-04f2a9c42fb9",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T05:14:02.682Z",
+      "end_time": "2026-06-21T05:14:02.682Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T05:14:02.682Z"
+    },
+    {
+      "trace_id": "ad439820-04e8-4279-a7f0-8c76bc67916c",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:19:49.513Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:19:49.513Z"
+    },
+    {
+      "trace_id": "a1bf0fdd-2af0-4b96-8cc8-e0d0d86ff40a",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:19:49.517Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:19:49.517Z"
+    },
+    {
+      "trace_id": "c9e9ca2c-470c-477d-9f61-075f6c454141",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:19:49.520Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:19:49.520Z"
+    },
+    {
+      "trace_id": "ee4436a6-4dcc-4f69-b461-03b8edf50192",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:19:49.522Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:19:49.522Z"
+    },
+    {
+      "trace_id": "4fa92bf7-809d-4694-aca8-f73692c3b1f0",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:19:50.326Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:19:50.327Z"
+    },
+    {
+      "trace_id": "25c45297-e3c0-4c77-a883-f9ccb527e698",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:19:50.331Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:19:50.331Z"
+    },
+    {
+      "trace_id": "5d77cd62-5678-443c-92d4-d93dc4839b22",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:19:51.141Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:19:51.141Z"
+    },
+    {
+      "trace_id": "4915efba-3be0-44e1-addb-044b58907e4e",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:19:51.144Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:19:51.144Z"
+    },
+    {
+      "trace_id": "9d95f035-d583-4c38-b217-7aa9269146d3",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T05:19:51.146Z",
+      "end_time": "2026-06-21T05:19:51.146Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T05:19:51.146Z"
+    },
+    {
+      "trace_id": "fbdcf4f5-f810-48ff-95b0-aed84dc73366",
+      "goal": "build a calculator",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T05:24:25.981Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T05:24:25.981Z"
+    },
+    {
+      "trace_id": "dd4db873-fd69-4897-bd52-4c1ecf9635fc",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T07:18:31.284Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T07:18:31.284Z"
+    },
+    {
+      "trace_id": "acf8ffc1-f709-4b8e-afc6-d764e17483cc",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T07:18:31.289Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T07:18:31.289Z"
+    },
+    {
+      "trace_id": "321cc7a3-9e0b-4aa6-be34-e202ac7dff8a",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T07:18:31.292Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T07:18:31.292Z"
+    },
+    {
+      "trace_id": "6d9c6eb1-dbec-40d1-a23f-ca4b569ffc54",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T07:18:31.294Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T07:18:31.294Z"
+    },
+    {
+      "trace_id": "5c06aa7d-fe48-4051-8e15-ecd53bcf9cf8",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T07:18:32.104Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T07:18:32.105Z"
+    },
+    {
+      "trace_id": "2cb78cbc-7703-4fae-94cf-a725e3c510fe",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T07:18:32.110Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T07:18:32.110Z"
+    },
+    {
+      "trace_id": "80749019-5cbc-49b0-9779-14445e38c087",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T07:18:32.902Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T07:18:32.903Z"
+    },
+    {
+      "trace_id": "dcdcd0e4-97b6-4bd7-8373-0acac1cb12c2",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T07:18:32.905Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T07:18:32.905Z"
+    },
+    {
+      "trace_id": "10675364-4de3-4acd-9495-96667c391f88",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T07:18:32.908Z",
+      "end_time": "2026-06-21T07:18:32.908Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T07:18:32.908Z"
+    },
+    {
+      "trace_id": "fc236645-2dac-40d5-be57-fa10be51daa9",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:33:36.020Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:33:36.020Z"
+    },
+    {
+      "trace_id": "c5f763e0-36ee-4d6f-9bfc-2b47e437b180",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:33:36.025Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:33:36.025Z"
+    },
+    {
+      "trace_id": "3abeef16-98d5-475a-a3bb-b35aa4765bca",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:33:36.028Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:33:36.028Z"
+    },
+    {
+      "trace_id": "213d36d1-a41c-46f7-9773-dedb37cf1064",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:33:36.030Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:33:36.030Z"
+    },
+    {
+      "trace_id": "e8fd5aa8-2cf9-4363-8f07-20d114e0e5a4",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:33:36.816Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:33:36.817Z"
+    },
+    {
+      "trace_id": "6ac9b096-2893-4dc0-bb77-d83b4d742901",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:33:36.822Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:33:36.822Z"
+    },
+    {
+      "trace_id": "adedc958-073e-4eff-9275-6f31c74f7fe4",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:33:37.619Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:33:37.619Z"
+    },
+    {
+      "trace_id": "46aabb3d-b1c5-46b2-a400-742b24f6065b",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:33:37.622Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:33:37.622Z"
+    },
+    {
+      "trace_id": "29961c06-87c0-46cc-ac64-78ac8c475dbe",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T19:33:37.624Z",
+      "end_time": "2026-06-21T19:33:37.625Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T19:33:37.624Z"
+    },
+    {
+      "trace_id": "22287766-bf08-49da-b733-ca7226cbace3",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:35:56.142Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:35:56.142Z"
+    },
+    {
+      "trace_id": "395647db-00af-4010-955c-feaf5ae1e936",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:35:56.146Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:35:56.146Z"
+    },
+    {
+      "trace_id": "7d095a7e-d281-47c9-88e6-174a365af5fb",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:35:56.149Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:35:56.149Z"
+    },
+    {
+      "trace_id": "7cfa3458-956f-449e-af08-2408fccecde3",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:35:56.152Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:35:56.152Z"
+    },
+    {
+      "trace_id": "719550fb-68aa-46f9-b28d-d79890dff8d7",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:35:56.959Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:35:56.959Z"
+    },
+    {
+      "trace_id": "6cf5c36c-00e8-4fcd-a5ad-0b75b6abb9fb",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:35:56.965Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:35:56.965Z"
+    },
+    {
+      "trace_id": "f6f0b83f-ffe6-4a69-8629-24c7107d7fea",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:35:57.763Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:35:57.764Z"
+    },
+    {
+      "trace_id": "67b569da-e8c5-4b7b-ba26-0fb02992a6d3",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:35:57.766Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:35:57.766Z"
+    },
+    {
+      "trace_id": "d37a5541-2139-4c2d-8f6d-a686a136bc26",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T19:35:57.769Z",
+      "end_time": "2026-06-21T19:35:57.769Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T19:35:57.769Z"
+    },
+    {
+      "trace_id": "704cf036-5c5c-4fce-9a18-057abcacdf73",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:44:24.808Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:44:24.808Z"
+    },
+    {
+      "trace_id": "cab21464-a394-414d-a802-766c6e56c069",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:44:24.812Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:44:24.812Z"
+    },
+    {
+      "trace_id": "e21d25dc-a136-4c7c-b8f1-2713a6c62608",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:44:24.816Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:44:24.816Z"
+    },
+    {
+      "trace_id": "130ba174-bfaf-4c6b-a760-e3d14862699e",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:44:24.819Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:44:24.819Z"
+    },
+    {
+      "trace_id": "0f468044-9aac-4f9d-accf-14ed24dfbd82",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:44:25.639Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:44:25.639Z"
+    },
+    {
+      "trace_id": "2a47d02f-4c41-48c7-9d4c-b922aaf20867",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:44:25.645Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:44:25.645Z"
+    },
+    {
+      "trace_id": "8e9501bf-9751-4788-918b-1f69c69e56d2",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:44:26.471Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:44:26.471Z"
+    },
+    {
+      "trace_id": "f10c77ac-cd7b-4950-959c-70318f96e6de",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T19:44:26.474Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T19:44:26.474Z"
+    },
+    {
+      "trace_id": "fe4e6711-e766-4311-ab5e-0d58c8fc3ae6",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T19:44:26.477Z",
+      "end_time": "2026-06-21T19:44:26.477Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T19:44:26.477Z"
+    },
+    {
+      "trace_id": "9c25c9d0-7dbe-4e68-b1d1-1ae5b7fdecc7",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:23:01.136Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:23:01.136Z"
+    },
+    {
+      "trace_id": "73d2ff40-1b5b-4442-b3d7-75095fa9eebf",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:23:01.142Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:23:01.142Z"
+    },
+    {
+      "trace_id": "4d412be3-8663-4e5b-8556-7c1a43bf6632",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:23:01.146Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:23:01.146Z"
+    },
+    {
+      "trace_id": "addc4086-007a-4226-ab80-8220ee41b1b9",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:23:01.149Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:23:01.149Z"
+    },
+    {
+      "trace_id": "bd3c530d-c4ea-4382-ae6a-358a3aa2689c",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:23:01.958Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:23:01.958Z"
+    },
+    {
+      "trace_id": "54946b67-71d5-4af4-a2c1-e085cd8ddfa6",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:23:01.964Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:23:01.964Z"
+    },
+    {
+      "trace_id": "63c337bf-d9f4-4c2e-aad9-534d0150b180",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:23:02.801Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:23:02.801Z"
+    },
+    {
+      "trace_id": "507de017-3e43-4685-a42b-1eecea37cd94",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:23:02.804Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:23:02.804Z"
+    },
+    {
+      "trace_id": "15879e40-5de9-432d-9ba9-c9c7547095c8",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T20:23:02.807Z",
+      "end_time": "2026-06-21T20:23:02.807Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T20:23:02.807Z"
+    },
+    {
+      "trace_id": "f953eeca-4c06-4e0b-9acc-3675392bf921",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:24:18.737Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:24:18.737Z"
+    },
+    {
+      "trace_id": "b4e9a428-f5b1-41a7-ab5c-2a3ad0aa767c",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:24:18.742Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:24:18.742Z"
+    },
+    {
+      "trace_id": "ebedd1a8-3226-4065-9146-207d21836fad",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:24:18.746Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:24:18.746Z"
+    },
+    {
+      "trace_id": "7345a019-c946-403d-80d3-e5d4b1a45548",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:24:18.749Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:24:18.749Z"
+    },
+    {
+      "trace_id": "34ece2aa-7946-4e9b-8242-20909e327c5a",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:24:19.558Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:24:19.559Z"
+    },
+    {
+      "trace_id": "34831d0d-430e-42db-aa5b-319ce008c7a9",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:24:19.565Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:24:19.565Z"
+    },
+    {
+      "trace_id": "e984e445-e718-402e-b2b4-71ff80e01726",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:24:20.381Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:24:20.381Z"
+    },
+    {
+      "trace_id": "c3521b3b-05e1-49a1-a730-ae1971db102c",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:24:20.385Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:24:20.385Z"
+    },
+    {
+      "trace_id": "063aa2ef-3485-42d0-9aa0-7648a54b2166",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T20:24:20.388Z",
+      "end_time": "2026-06-21T20:24:20.388Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T20:24:20.388Z"
+    },
+    {
+      "trace_id": "816ba9da-9db9-45a1-a452-0cabc7c71107",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:26:13.242Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:26:13.242Z"
+    },
+    {
+      "trace_id": "5b28b38d-fa19-4ed0-a745-ede2fc32b4f0",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:26:13.247Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:26:13.247Z"
+    },
+    {
+      "trace_id": "095eeb54-e5b7-4248-bdcb-4fb4cd8efd81",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:26:13.251Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:26:13.251Z"
+    },
+    {
+      "trace_id": "b446af41-f50a-444f-a7bf-4871aadad24c",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:26:13.254Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:26:13.254Z"
+    },
+    {
+      "trace_id": "e17c0692-fa16-4937-b42c-76855a10dda5",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:26:14.071Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:26:14.072Z"
+    },
+    {
+      "trace_id": "ff28c09a-04ea-47d0-91b2-73758c9d4acb",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:26:14.079Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:26:14.079Z"
+    },
+    {
+      "trace_id": "26db3f31-9374-4a0a-a544-94cf40d77806",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:26:14.902Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:26:14.902Z"
+    },
+    {
+      "trace_id": "2d40d225-dff6-4490-96f9-bfea19dbcd54",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T20:26:14.906Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T20:26:14.906Z"
+    },
+    {
+      "trace_id": "55ae02c2-817c-4494-b430-6c701cfbd997",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T20:26:14.909Z",
+      "end_time": "2026-06-21T20:26:14.910Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T20:26:14.909Z"
+    },
+    {
+      "trace_id": "064a0caf-7d02-4843-96c2-64910edc8aea",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:18:03.918Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:18:03.918Z"
+    },
+    {
+      "trace_id": "3c4fc46b-3466-46f2-933c-74ab0b99fd00",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:18:03.923Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:18:03.923Z"
+    },
+    {
+      "trace_id": "5baa8395-dfdd-4c86-a915-b05a69c7fa93",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:18:03.928Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:18:03.928Z"
+    },
+    {
+      "trace_id": "096bddcd-c012-43c1-9127-f3da783794c1",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:18:03.931Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:18:03.931Z"
+    },
+    {
+      "trace_id": "1a9261c9-2ea9-4b6b-8cf5-cc41c835d31a",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:18:04.747Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:18:04.748Z"
+    },
+    {
+      "trace_id": "1ea17599-52af-4a38-acd1-ab67030fc241",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:18:04.755Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:18:04.755Z"
+    },
+    {
+      "trace_id": "e98061b2-ff13-406b-92b0-3ad9c4b621a8",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:18:05.566Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:18:05.566Z"
+    },
+    {
+      "trace_id": "debf59c9-9321-43d2-ab7e-e73bfe778857",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:18:05.569Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:18:05.569Z"
+    },
+    {
+      "trace_id": "fa5ba88a-3ed3-44ea-ae92-aa1bb9c247bf",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T21:18:05.572Z",
+      "end_time": "2026-06-21T21:18:05.573Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T21:18:05.572Z"
+    },
+    {
+      "trace_id": "5089087f-fe80-4326-ae5f-1b451e93c487",
+      "goal": "build a calculator\n",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:28:05.422Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:28:05.422Z"
+    },
+    {
+      "trace_id": "46966e80-c9a9-4c8d-849e-e04b156bc900",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:28:52.156Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:28:52.156Z"
+    },
+    {
+      "trace_id": "76e6663e-6175-4ee7-bbba-d274cef5a9ce",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:28:52.161Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:28:52.161Z"
+    },
+    {
+      "trace_id": "16b8ba3e-9136-4735-b29e-b25f688ebc15",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:28:52.166Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:28:52.166Z"
+    },
+    {
+      "trace_id": "d24ccd06-e51b-4ae4-8f9e-524633531026",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:28:52.169Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:28:52.169Z"
+    },
+    {
+      "trace_id": "f66f6bd4-8a23-41a7-89ec-7d183104be2a",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:28:52.997Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:28:52.997Z"
+    },
+    {
+      "trace_id": "0d9a3653-8419-4e5f-b150-df6ca38576b9",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:28:53.004Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:28:53.004Z"
+    },
+    {
+      "trace_id": "3f5b3087-3b4b-41f3-a501-227147cf9cec",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:28:53.812Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:28:53.812Z"
+    },
+    {
+      "trace_id": "aae88f96-db05-4acd-97bb-c4a3da978d46",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:28:53.816Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:28:53.816Z"
+    },
+    {
+      "trace_id": "ff3c5db2-6390-4308-a3be-23352c0cb291",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T21:28:53.820Z",
+      "end_time": "2026-06-21T21:28:53.820Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T21:28:53.820Z"
+    },
+    {
+      "trace_id": "fe7d6aa3-e7fb-4d48-a6d4-a0d637b229de",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:30:15.340Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:30:15.340Z"
+    },
+    {
+      "trace_id": "d83b5c51-69c9-4508-8307-de2e3eed83de",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:30:15.345Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:30:15.345Z"
+    },
+    {
+      "trace_id": "3ad6429d-02dc-48d7-ba78-6135d517d15d",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:30:15.351Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:30:15.351Z"
+    },
+    {
+      "trace_id": "3b12ec2d-31b0-4462-aec9-455a814b124f",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:30:15.354Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:30:15.354Z"
+    },
+    {
+      "trace_id": "d49c9768-33a0-4562-bd42-8dfe262826c3",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:30:16.178Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:30:16.179Z"
+    },
+    {
+      "trace_id": "65a1b0cd-99f8-41e9-91bb-29e42b1a2c43",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:30:16.187Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:30:16.187Z"
+    },
+    {
+      "trace_id": "e1521c00-5361-49aa-a385-7d3caf8dff4c",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:30:17.008Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:30:17.009Z"
+    },
+    {
+      "trace_id": "76739ae3-bc95-4061-b6eb-d0bf9a63a755",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:30:17.012Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:30:17.012Z"
+    },
+    {
+      "trace_id": "4e653bd1-0a55-43b0-a96e-9646a1bb6b0b",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T21:30:17.016Z",
+      "end_time": "2026-06-21T21:30:17.017Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T21:30:17.016Z"
+    },
+    {
+      "trace_id": "d8a95d19-c593-4604-bdd8-9529f8d37243",
+      "goal": "Verification Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:39:16.777Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:39:16.777Z"
+    },
+    {
+      "trace_id": "c9222900-582e-4209-b401-99e9061a10a7",
+      "goal": "Temporal Sorting Check",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:39:16.783Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:39:16.783Z"
+    },
+    {
+      "trace_id": "eea456b3-4c28-411d-9cec-0a25fe0d7fa9",
+      "goal": "Security Lock Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:39:16.788Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:39:16.788Z"
+    },
+    {
+      "trace_id": "e015f779-ab68-4768-9e09-ef2439d653dc",
+      "goal": "Security Erasure Test",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:39:16.791Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:39:16.791Z"
+    },
+    {
+      "trace_id": "bbc3ba8c-9d6e-4a45-9f94-8c87cf5c1c13",
+      "goal": "Initiate bootstrap sequence",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:39:17.587Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:39:17.587Z"
+    },
+    {
+      "trace_id": "1276ed07-aa55-4f4d-86e3-b79794488c40",
+      "goal": "Build a particle grid",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:39:17.595Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:39:17.595Z"
+    },
+    {
+      "trace_id": "0ae35c65-c939-4506-af36-7a7ad3ee41d9",
+      "goal": "Construct quantum communications backbone",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:39:18.396Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:39:18.397Z"
+    },
+    {
+      "trace_id": "cd2077c6-e5e1-4db7-9ad8-08344a215cad",
+      "goal": "Calibrate cooling matrix",
+      "status": "running",
+      "outcome": null,
+      "start_time": "2026-06-21T21:39:18.402Z",
+      "end_time": null,
+      "metrics": {},
+      "created_at": "2026-06-21T21:39:18.402Z"
+    },
+    {
+      "trace_id": "c7e1a24b-41f3-4753-b916-c4d9c41c1cdf",
+      "goal": "Run laser simulation",
+      "status": "completed",
+      "outcome": "Simulation succeeded without anomalies",
+      "start_time": "2026-06-21T21:39:18.407Z",
+      "end_time": "2026-06-21T21:39:18.408Z",
+      "metrics": {
+        "duration_ms": 1240
+      },
+      "created_at": "2026-06-21T21:39:18.407Z"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "dbf2e016-75ce-45ab-8c33-41a1dc20d649",
+      "trace_id": "2e13e489-4458-4449-b26e-5fa5c7093314",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T04:55:48.136Z",
+      "created_at": "2026-06-21T04:55:48.136Z",
+      "embedding": null
+    },
+    {
+      "event_id": "1f45f72f-c713-4b2d-991d-df147aef9ca9",
+      "trace_id": "3c0cc064-9308-427a-9db3-5f02b4d897fb",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T04:55:48.139Z",
+      "created_at": "2026-06-21T04:55:48.139Z",
+      "embedding": null
+    },
+    {
+      "event_id": "91cf93c0-47cf-4aac-9e50-bfc7e45d98a2",
+      "trace_id": "3c0cc064-9308-427a-9db3-5f02b4d897fb",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T04:55:48.139Z",
+      "created_at": "2026-06-21T04:55:48.139Z",
+      "embedding": null
+    },
+    {
+      "event_id": "a9283efc-ae82-4de3-b1a2-cb7a0fb57516",
+      "trace_id": "3c0cc064-9308-427a-9db3-5f02b4d897fb",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T04:55:48.139Z",
+      "created_at": "2026-06-21T04:55:48.139Z",
+      "embedding": null
+    },
+    {
+      "event_id": "6ea5cb3e-4bbd-4daa-ba91-3b6e799920e0",
+      "trace_id": "861f08b2-bfe1-4e0c-9d7b-488f8d5cd7a0",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T04:55:48.140Z",
+      "created_at": "2026-06-21T04:55:48.140Z",
+      "embedding": null
+    },
+    {
+      "event_id": "76913b6a-6c8a-4050-8cec-b49b5a9d7676",
+      "trace_id": "eb084ad8-eacc-45e4-8d42-39f4b1b196d9",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T04:55:48.142Z",
+      "created_at": "2026-06-21T04:55:48.142Z",
+      "embedding": null
+    },
+    {
+      "event_id": "74919914-c63e-4752-bd51-0e4cdca0c77e",
+      "trace_id": "8b38afb9-c7d7-4ce2-94ff-24dea3b36adf",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T04:55:48.933Z",
+      "created_at": "2026-06-21T04:55:48.933Z",
+      "embedding": null
+    },
+    {
+      "event_id": "8e88a270-eda6-4e92-8430-e79a36e3bc9b",
+      "trace_id": "8b38afb9-c7d7-4ce2-94ff-24dea3b36adf",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T04:55:48.933Z",
+      "created_at": "2026-06-21T04:55:48.933Z",
+      "embedding": null
+    },
+    {
+      "event_id": "c964fe6f-f205-4701-92e8-e64960143ca1",
+      "trace_id": "8b38afb9-c7d7-4ce2-94ff-24dea3b36adf",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T04:55:48.934Z",
+      "created_at": "2026-06-21T04:55:48.934Z",
+      "embedding": null
+    },
+    {
+      "event_id": "7a60c041-db68-4888-a46a-63aa9fb641d4",
+      "trace_id": "3b767518-0f96-4980-bc3a-ea4c978a5d66",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T04:55:48.936Z",
+      "created_at": "2026-06-21T04:55:48.936Z",
+      "embedding": null
+    },
+    {
+      "event_id": "81982b82-5c51-4112-88d9-c6003b552521",
+      "trace_id": "3b767518-0f96-4980-bc3a-ea4c978a5d66",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T04:55:48.937Z",
+      "created_at": "2026-06-21T04:55:48.937Z",
+      "embedding": null
+    },
+    {
+      "event_id": "9dc738e2-65c0-4070-839e-d0e1f8ee7fdf",
+      "trace_id": "3b767518-0f96-4980-bc3a-ea4c978a5d66",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T04:55:48.937Z",
+      "created_at": "2026-06-21T04:55:48.937Z",
+      "embedding": null
+    },
+    {
+      "event_id": "ad1fc627-3883-4f31-9165-9db936123c70",
+      "trace_id": "3b767518-0f96-4980-bc3a-ea4c978a5d66",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T04:55:48.937Z",
+      "created_at": "2026-06-21T04:55:48.937Z",
+      "embedding": null
+    },
+    {
+      "event_id": "76a87af0-80ad-4750-935c-2d1eac2ef6cc",
+      "trace_id": "3b767518-0f96-4980-bc3a-ea4c978a5d66",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T04:55:48.937Z",
+      "created_at": "2026-06-21T04:55:48.937Z",
+      "embedding": null
+    },
+    {
+      "event_id": "a66c0f43-b70c-4275-a702-878f10395f89",
+      "trace_id": "cbbe9343-d724-4312-8cb8-95c42c44392a",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T04:55:49.728Z",
+      "created_at": "2026-06-21T04:55:49.728Z",
+      "embedding": null
+    },
+    {
+      "event_id": "6406f7f1-5040-493f-8621-bb3ebf67d488",
+      "trace_id": "cf686adf-0008-40de-9f13-ea359e253ca8",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T05:06:20.243Z",
+      "created_at": "2026-06-21T05:06:20.243Z",
+      "embedding": null
+    },
+    {
+      "event_id": "9c47aaa3-e6b7-495d-8346-b68c37b990a6",
+      "trace_id": "09958237-bf1d-4b3c-89ec-c450f977d24a",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T05:06:20.246Z",
+      "created_at": "2026-06-21T05:06:20.246Z",
+      "embedding": null
+    },
+    {
+      "event_id": "675ef43f-854b-4e04-8155-9fa5c0a318c7",
+      "trace_id": "09958237-bf1d-4b3c-89ec-c450f977d24a",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T05:06:20.246Z",
+      "created_at": "2026-06-21T05:06:20.246Z",
+      "embedding": null
+    },
+    {
+      "event_id": "1a2c5add-3622-49b1-8e58-0831403e0c9f",
+      "trace_id": "09958237-bf1d-4b3c-89ec-c450f977d24a",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T05:06:20.246Z",
+      "created_at": "2026-06-21T05:06:20.246Z",
+      "embedding": null
+    },
+    {
+      "event_id": "d79b43f5-cf63-41ba-b4e0-7c5c8ae7f425",
+      "trace_id": "73c482b7-f7fd-49b2-b52d-5cc5478408d6",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T05:06:20.247Z",
+      "created_at": "2026-06-21T05:06:20.247Z",
+      "embedding": null
+    },
+    {
+      "event_id": "45c66edf-022c-48ae-95e9-7b7ccb9c7697",
+      "trace_id": "329ed3d9-9afd-4793-ab57-97bae1201480",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T05:06:20.249Z",
+      "created_at": "2026-06-21T05:06:20.249Z",
+      "embedding": null
+    },
+    {
+      "event_id": "795c8f38-32a8-4db3-adfe-0be24a28bac4",
+      "trace_id": "c13835e2-be59-475f-bbcf-a74b5dba5fb2",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T05:06:21.065Z",
+      "created_at": "2026-06-21T05:06:21.065Z",
+      "embedding": null
+    },
+    {
+      "event_id": "e390a04a-c5b8-4970-a537-c191d441f783",
+      "trace_id": "c13835e2-be59-475f-bbcf-a74b5dba5fb2",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T05:06:21.065Z",
+      "created_at": "2026-06-21T05:06:21.065Z",
+      "embedding": null
+    },
+    {
+      "event_id": "4f17f8c5-6578-4ce8-906b-c5a2b5fda31e",
+      "trace_id": "c13835e2-be59-475f-bbcf-a74b5dba5fb2",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T05:06:21.065Z",
+      "created_at": "2026-06-21T05:06:21.065Z",
+      "embedding": null
+    },
+    {
+      "event_id": "b9a4bb6b-ac13-4d02-9f32-4dc795c685c1",
+      "trace_id": "84a027fa-53c5-428a-9472-cf6a6b87c7ff",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T05:06:21.068Z",
+      "created_at": "2026-06-21T05:06:21.068Z",
+      "embedding": null
+    },
+    {
+      "event_id": "37e29e90-4373-47a4-84ac-ca2e853cc5b9",
+      "trace_id": "84a027fa-53c5-428a-9472-cf6a6b87c7ff",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T05:06:21.069Z",
+      "created_at": "2026-06-21T05:06:21.069Z",
+      "embedding": null
+    },
+    {
+      "event_id": "b5f64b43-e144-4628-879c-1e19c30b0708",
+      "trace_id": "84a027fa-53c5-428a-9472-cf6a6b87c7ff",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T05:06:21.069Z",
+      "created_at": "2026-06-21T05:06:21.069Z",
+      "embedding": null
+    },
+    {
+      "event_id": "3f9fa164-1ba1-45ce-b271-6155810769e7",
+      "trace_id": "84a027fa-53c5-428a-9472-cf6a6b87c7ff",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T05:06:21.069Z",
+      "created_at": "2026-06-21T05:06:21.069Z",
+      "embedding": null
+    },
+    {
+      "event_id": "cab797d4-af35-4d31-aed1-86f0cf769e11",
+      "trace_id": "84a027fa-53c5-428a-9472-cf6a6b87c7ff",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T05:06:21.070Z",
+      "created_at": "2026-06-21T05:06:21.070Z",
+      "embedding": null
+    },
+    {
+      "event_id": "5baf6ef0-0c98-49af-bef6-818b6914dac5",
+      "trace_id": "f2b84f2e-4b1b-4785-b4ae-0f51ed630dac",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T05:06:21.883Z",
+      "created_at": "2026-06-21T05:06:21.883Z",
+      "embedding": null
+    },
+    {
+      "event_id": "cf5a2110-b65e-4799-825e-b680efc9ded2",
+      "trace_id": "da0a071c-4ab6-4d53-a344-3dd36f63cf87",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T05:14:01.075Z",
+      "created_at": "2026-06-21T05:14:01.075Z",
+      "embedding": null
+    },
+    {
+      "event_id": "40d281b7-1e08-4c86-a3df-a71cc0f22585",
+      "trace_id": "58e82dc3-4d9c-4d7f-a6cb-647205a1e6ad",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T05:14:01.078Z",
+      "created_at": "2026-06-21T05:14:01.078Z",
+      "embedding": null
+    },
+    {
+      "event_id": "2119444d-8af3-41de-aa59-66c287d096fc",
+      "trace_id": "58e82dc3-4d9c-4d7f-a6cb-647205a1e6ad",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T05:14:01.079Z",
+      "created_at": "2026-06-21T05:14:01.079Z",
+      "embedding": null
+    },
+    {
+      "event_id": "bfec2649-0356-403d-aa0e-3cea952d3a69",
+      "trace_id": "58e82dc3-4d9c-4d7f-a6cb-647205a1e6ad",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T05:14:01.079Z",
+      "created_at": "2026-06-21T05:14:01.079Z",
+      "embedding": null
+    },
+    {
+      "event_id": "8e3b0817-4801-4022-a3a8-e4bca75c667d",
+      "trace_id": "5f532e7f-5c11-442b-a83f-5e2050b85131",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T05:14:01.081Z",
+      "created_at": "2026-06-21T05:14:01.081Z",
+      "embedding": null
+    },
+    {
+      "event_id": "c1596888-1251-4860-a0db-b4b2194d61e1",
+      "trace_id": "f80d997a-61ae-4c94-ad3a-831c5d4f997d",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T05:14:01.083Z",
+      "created_at": "2026-06-21T05:14:01.083Z",
+      "embedding": null
+    },
+    {
+      "event_id": "bce4a0c9-339a-4152-96a5-6ae9fa02f052",
+      "trace_id": "6591fc7f-330d-45d8-93bf-a14b7702c1b5",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T05:14:01.877Z",
+      "created_at": "2026-06-21T05:14:01.877Z",
+      "embedding": null
+    },
+    {
+      "event_id": "ad291abc-4c0f-418f-83ff-c24484f33c35",
+      "trace_id": "6591fc7f-330d-45d8-93bf-a14b7702c1b5",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T05:14:01.878Z",
+      "created_at": "2026-06-21T05:14:01.878Z",
+      "embedding": null
+    },
+    {
+      "event_id": "7848151f-b396-4607-bf58-26ec0490d80b",
+      "trace_id": "6591fc7f-330d-45d8-93bf-a14b7702c1b5",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T05:14:01.878Z",
+      "created_at": "2026-06-21T05:14:01.878Z",
+      "embedding": null
+    },
+    {
+      "event_id": "30cb5ed7-9388-470a-8f74-eb75598fa336",
+      "trace_id": "fccac463-f623-46c8-bb5a-f9d66a92e227",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T05:14:01.881Z",
+      "created_at": "2026-06-21T05:14:01.881Z",
+      "embedding": null
+    },
+    {
+      "event_id": "553879c4-8c76-4e9a-82bc-91fc08fa7c64",
+      "trace_id": "fccac463-f623-46c8-bb5a-f9d66a92e227",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T05:14:01.881Z",
+      "created_at": "2026-06-21T05:14:01.881Z",
+      "embedding": null
+    },
+    {
+      "event_id": "71696a3b-9130-475e-82fd-13a0c971a309",
+      "trace_id": "fccac463-f623-46c8-bb5a-f9d66a92e227",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T05:14:01.882Z",
+      "created_at": "2026-06-21T05:14:01.882Z",
+      "embedding": null
+    },
+    {
+      "event_id": "0b227b5b-06af-4c15-a431-3e642e1cc829",
+      "trace_id": "fccac463-f623-46c8-bb5a-f9d66a92e227",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T05:14:01.882Z",
+      "created_at": "2026-06-21T05:14:01.882Z",
+      "embedding": null
+    },
+    {
+      "event_id": "79fece3c-49b1-426d-bd03-18daecfc762d",
+      "trace_id": "fccac463-f623-46c8-bb5a-f9d66a92e227",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T05:14:01.883Z",
+      "created_at": "2026-06-21T05:14:01.883Z",
+      "embedding": null
+    },
+    {
+      "event_id": "65e7ea7f-c9f3-4f39-8466-beb8401944ba",
+      "trace_id": "f66d2970-6ed7-497e-b0e4-d68573f9958c",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T05:14:02.680Z",
+      "created_at": "2026-06-21T05:14:02.680Z",
+      "embedding": null
+    },
+    {
+      "event_id": "c7f32435-e503-48bf-a661-78d3e1819dd8",
+      "trace_id": "ad439820-04e8-4279-a7f0-8c76bc67916c",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T05:19:49.514Z",
+      "created_at": "2026-06-21T05:19:49.514Z",
+      "embedding": null
+    },
+    {
+      "event_id": "cb1ea5cf-321d-4510-ac8e-c735afcc9aa4",
+      "trace_id": "a1bf0fdd-2af0-4b96-8cc8-e0d0d86ff40a",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T05:19:49.517Z",
+      "created_at": "2026-06-21T05:19:49.517Z",
+      "embedding": null
+    },
+    {
+      "event_id": "efdb6daa-99f4-4f14-b6d1-a125a3b556f6",
+      "trace_id": "a1bf0fdd-2af0-4b96-8cc8-e0d0d86ff40a",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T05:19:49.518Z",
+      "created_at": "2026-06-21T05:19:49.518Z",
+      "embedding": null
+    },
+    {
+      "event_id": "8a32e4ce-1ee3-4a68-9779-7450b1e36d6f",
+      "trace_id": "a1bf0fdd-2af0-4b96-8cc8-e0d0d86ff40a",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T05:19:49.518Z",
+      "created_at": "2026-06-21T05:19:49.518Z",
+      "embedding": null
+    },
+    {
+      "event_id": "a6ffa126-8a9a-46a4-a772-b7393bd99add",
+      "trace_id": "c9e9ca2c-470c-477d-9f61-075f6c454141",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T05:19:49.520Z",
+      "created_at": "2026-06-21T05:19:49.520Z",
+      "embedding": null
+    },
+    {
+      "event_id": "bbcf2218-fea2-4f5c-a41f-9784f11df348",
+      "trace_id": "ee4436a6-4dcc-4f69-b461-03b8edf50192",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T05:19:49.522Z",
+      "created_at": "2026-06-21T05:19:49.522Z",
+      "embedding": null
+    },
+    {
+      "event_id": "38bd763d-ce9d-4e6a-82fb-7be527538d03",
+      "trace_id": "4fa92bf7-809d-4694-aca8-f73692c3b1f0",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T05:19:50.328Z",
+      "created_at": "2026-06-21T05:19:50.328Z",
+      "embedding": null
+    },
+    {
+      "event_id": "d3ea77c3-e944-4e03-8676-84b5d39add9b",
+      "trace_id": "4fa92bf7-809d-4694-aca8-f73692c3b1f0",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T05:19:50.328Z",
+      "created_at": "2026-06-21T05:19:50.328Z",
+      "embedding": null
+    },
+    {
+      "event_id": "08ab7906-5afb-48a9-a675-29e9638dc6f8",
+      "trace_id": "4fa92bf7-809d-4694-aca8-f73692c3b1f0",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T05:19:50.329Z",
+      "created_at": "2026-06-21T05:19:50.329Z",
+      "embedding": null
+    },
+    {
+      "event_id": "41de405b-7b80-4877-9dd6-ecc5ecd2026a",
+      "trace_id": "25c45297-e3c0-4c77-a883-f9ccb527e698",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T05:19:50.332Z",
+      "created_at": "2026-06-21T05:19:50.332Z",
+      "embedding": null
+    },
+    {
+      "event_id": "3002d068-7737-43b4-982e-3697038f8983",
+      "trace_id": "25c45297-e3c0-4c77-a883-f9ccb527e698",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T05:19:50.332Z",
+      "created_at": "2026-06-21T05:19:50.332Z",
+      "embedding": null
+    },
+    {
+      "event_id": "4d060b93-8d36-4545-b814-ef5f448dc15b",
+      "trace_id": "25c45297-e3c0-4c77-a883-f9ccb527e698",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T05:19:50.333Z",
+      "created_at": "2026-06-21T05:19:50.333Z",
+      "embedding": null
+    },
+    {
+      "event_id": "5bb60c88-2cc7-424f-ade5-c6ab42ecb534",
+      "trace_id": "25c45297-e3c0-4c77-a883-f9ccb527e698",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T05:19:50.333Z",
+      "created_at": "2026-06-21T05:19:50.333Z",
+      "embedding": null
+    },
+    {
+      "event_id": "e11dd904-b4f4-4bb0-b5c3-00cc3ea0c1b3",
+      "trace_id": "25c45297-e3c0-4c77-a883-f9ccb527e698",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T05:19:50.334Z",
+      "created_at": "2026-06-21T05:19:50.334Z",
+      "embedding": null
+    },
+    {
+      "event_id": "d54fde80-fe20-4a07-906a-e385a0eadc02",
+      "trace_id": "4915efba-3be0-44e1-addb-044b58907e4e",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T05:19:51.145Z",
+      "created_at": "2026-06-21T05:19:51.145Z",
+      "embedding": null
+    },
+    {
+      "event_id": "b7ac6812-0a64-4b0e-9105-9f0b9fb37c00",
+      "trace_id": "fbdcf4f5-f810-48ff-95b0-aed84dc73366",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "build a calculator"
+      },
+      "timestamp": "2026-06-21T05:24:25.981Z",
+      "created_at": "2026-06-21T05:24:25.981Z",
+      "embedding": null
+    },
+    {
+      "event_id": "18934a29-6420-4ba9-b342-ee244632340b",
+      "trace_id": "fbdcf4f5-f810-48ff-95b0-aed84dc73366",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "build a calculator"
+      },
+      "timestamp": "2026-06-21T05:24:25.982Z",
+      "created_at": "2026-06-21T05:24:25.982Z",
+      "embedding": null
+    },
+    {
+      "event_id": "07d8486a-959e-4d25-988b-617e866f02c7",
+      "trace_id": "fbdcf4f5-f810-48ff-95b0-aed84dc73366",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T05:24:25.983Z",
+      "created_at": "2026-06-21T05:24:25.983Z",
+      "embedding": null
+    },
+    {
+      "event_id": "018eab11-0edb-4f2c-a2d2-807532931770",
+      "trace_id": "dd4db873-fd69-4897-bd52-4c1ecf9635fc",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T07:18:31.285Z",
+      "created_at": "2026-06-21T07:18:31.285Z",
+      "embedding": null
+    },
+    {
+      "event_id": "8d6887c8-9ff8-46ab-950a-a8c325dc29eb",
+      "trace_id": "acf8ffc1-f709-4b8e-afc6-d764e17483cc",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T07:18:31.289Z",
+      "created_at": "2026-06-21T07:18:31.289Z",
+      "embedding": null
+    },
+    {
+      "event_id": "87047d1d-ff9f-4075-afe6-8fad30bc9de2",
+      "trace_id": "acf8ffc1-f709-4b8e-afc6-d764e17483cc",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T07:18:31.290Z",
+      "created_at": "2026-06-21T07:18:31.290Z",
+      "embedding": null
+    },
+    {
+      "event_id": "8c80fd99-e2b8-45db-84c4-d7cf9a0926a4",
+      "trace_id": "acf8ffc1-f709-4b8e-afc6-d764e17483cc",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T07:18:31.290Z",
+      "created_at": "2026-06-21T07:18:31.290Z",
+      "embedding": null
+    },
+    {
+      "event_id": "65fb8d3b-d00b-4ee6-8a7f-0d9caea21de0",
+      "trace_id": "321cc7a3-9e0b-4aa6-be34-e202ac7dff8a",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T07:18:31.292Z",
+      "created_at": "2026-06-21T07:18:31.292Z",
+      "embedding": null
+    },
+    {
+      "event_id": "6bd6ec78-2f46-4061-9c53-7712dc033aa9",
+      "trace_id": "6d9c6eb1-dbec-40d1-a23f-ca4b569ffc54",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T07:18:31.295Z",
+      "created_at": "2026-06-21T07:18:31.295Z",
+      "embedding": null
+    },
+    {
+      "event_id": "5beb07ed-6ec8-4444-8266-3fff0ed6b957",
+      "trace_id": "5c06aa7d-fe48-4051-8e15-ecd53bcf9cf8",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T07:18:32.106Z",
+      "created_at": "2026-06-21T07:18:32.106Z",
+      "embedding": null
+    },
+    {
+      "event_id": "a7b3131a-3a49-4cbe-a9a6-3ef37a7d96d1",
+      "trace_id": "5c06aa7d-fe48-4051-8e15-ecd53bcf9cf8",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T07:18:32.106Z",
+      "created_at": "2026-06-21T07:18:32.106Z",
+      "embedding": null
+    },
+    {
+      "event_id": "6b81e06f-7a12-4598-8f87-defe61e60807",
+      "trace_id": "5c06aa7d-fe48-4051-8e15-ecd53bcf9cf8",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T07:18:32.107Z",
+      "created_at": "2026-06-21T07:18:32.107Z",
+      "embedding": null
+    },
+    {
+      "event_id": "d425849a-f0d3-4489-8ebc-6ef54f2e07d4",
+      "trace_id": "2cb78cbc-7703-4fae-94cf-a725e3c510fe",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T07:18:32.110Z",
+      "created_at": "2026-06-21T07:18:32.110Z",
+      "embedding": null
+    },
+    {
+      "event_id": "1e72f338-3931-4269-ab8e-543fae752758",
+      "trace_id": "2cb78cbc-7703-4fae-94cf-a725e3c510fe",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T07:18:32.111Z",
+      "created_at": "2026-06-21T07:18:32.111Z",
+      "embedding": null
+    },
+    {
+      "event_id": "c8a0d720-a7eb-4f93-9644-6c845bc62bbf",
+      "trace_id": "2cb78cbc-7703-4fae-94cf-a725e3c510fe",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T07:18:32.111Z",
+      "created_at": "2026-06-21T07:18:32.111Z",
+      "embedding": null
+    },
+    {
+      "event_id": "7cb76719-2197-4c67-be1b-0d0145253484",
+      "trace_id": "2cb78cbc-7703-4fae-94cf-a725e3c510fe",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T07:18:32.112Z",
+      "created_at": "2026-06-21T07:18:32.112Z",
+      "embedding": null
+    },
+    {
+      "event_id": "df952477-8f7a-44e9-9ef9-621beca4d2b2",
+      "trace_id": "2cb78cbc-7703-4fae-94cf-a725e3c510fe",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T07:18:32.112Z",
+      "created_at": "2026-06-21T07:18:32.112Z",
+      "embedding": null
+    },
+    {
+      "event_id": "e7aa6c2c-d877-4306-bc90-3751a1b8e3e3",
+      "trace_id": "dcdcd0e4-97b6-4bd7-8373-0acac1cb12c2",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T07:18:32.906Z",
+      "created_at": "2026-06-21T07:18:32.906Z",
+      "embedding": null
+    },
+    {
+      "event_id": "223bb03f-2ba5-4f8b-8843-100be340a02f",
+      "trace_id": "fc236645-2dac-40d5-be57-fa10be51daa9",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T19:33:36.022Z",
+      "created_at": "2026-06-21T19:33:36.022Z",
+      "embedding": null
+    },
+    {
+      "event_id": "5181e869-d029-42f7-87c7-36777711787d",
+      "trace_id": "c5f763e0-36ee-4d6f-9bfc-2b47e437b180",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T19:33:36.025Z",
+      "created_at": "2026-06-21T19:33:36.025Z",
+      "embedding": null
+    },
+    {
+      "event_id": "5d8bf1ca-46c2-4213-8614-fcc1494ed014",
+      "trace_id": "c5f763e0-36ee-4d6f-9bfc-2b47e437b180",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T19:33:36.026Z",
+      "created_at": "2026-06-21T19:33:36.026Z",
+      "embedding": null
+    },
+    {
+      "event_id": "dfb4f9cc-ac81-4b0e-b269-0944b5a3cd0a",
+      "trace_id": "c5f763e0-36ee-4d6f-9bfc-2b47e437b180",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T19:33:36.026Z",
+      "created_at": "2026-06-21T19:33:36.026Z",
+      "embedding": null
+    },
+    {
+      "event_id": "3803ab4d-eff2-46fe-98b9-58d6fc8ff901",
+      "trace_id": "3abeef16-98d5-475a-a3bb-b35aa4765bca",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T19:33:36.028Z",
+      "created_at": "2026-06-21T19:33:36.028Z",
+      "embedding": null
+    },
+    {
+      "event_id": "ccfb4f4a-b6e0-49bc-93dc-edaf27985e74",
+      "trace_id": "213d36d1-a41c-46f7-9773-dedb37cf1064",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T19:33:36.031Z",
+      "created_at": "2026-06-21T19:33:36.031Z",
+      "embedding": null
+    },
+    {
+      "event_id": "ca97e823-acaf-48d1-a42f-94ab422a0ac4",
+      "trace_id": "e8fd5aa8-2cf9-4363-8f07-20d114e0e5a4",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T19:33:36.818Z",
+      "created_at": "2026-06-21T19:33:36.818Z",
+      "embedding": null
+    },
+    {
+      "event_id": "41016629-2557-42e1-9419-c5ebd00f6bcc",
+      "trace_id": "e8fd5aa8-2cf9-4363-8f07-20d114e0e5a4",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T19:33:36.818Z",
+      "created_at": "2026-06-21T19:33:36.818Z",
+      "embedding": null
+    },
+    {
+      "event_id": "26bef7da-f58f-4bcd-b9d2-4effc6fc36a1",
+      "trace_id": "e8fd5aa8-2cf9-4363-8f07-20d114e0e5a4",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T19:33:36.819Z",
+      "created_at": "2026-06-21T19:33:36.819Z",
+      "embedding": null
+    },
+    {
+      "event_id": "286d812f-572f-4731-bfb7-b8312c6a47f1",
+      "trace_id": "6ac9b096-2893-4dc0-bb77-d83b4d742901",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T19:33:36.823Z",
+      "created_at": "2026-06-21T19:33:36.823Z",
+      "embedding": null
+    },
+    {
+      "event_id": "1ec395d2-6371-4d61-a9ab-46cfefb82d58",
+      "trace_id": "6ac9b096-2893-4dc0-bb77-d83b4d742901",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T19:33:36.823Z",
+      "created_at": "2026-06-21T19:33:36.823Z",
+      "embedding": null
+    },
+    {
+      "event_id": "ef54af06-cb36-40cf-b614-a926330f14f4",
+      "trace_id": "6ac9b096-2893-4dc0-bb77-d83b4d742901",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T19:33:36.824Z",
+      "created_at": "2026-06-21T19:33:36.824Z",
+      "embedding": null
+    },
+    {
+      "event_id": "4a2ff00c-4d85-4340-9176-3b701d36921e",
+      "trace_id": "6ac9b096-2893-4dc0-bb77-d83b4d742901",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T19:33:36.824Z",
+      "created_at": "2026-06-21T19:33:36.824Z",
+      "embedding": null
+    },
+    {
+      "event_id": "c08a5d63-fb6b-4e66-ac2f-8a0bdfebc92e",
+      "trace_id": "6ac9b096-2893-4dc0-bb77-d83b4d742901",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T19:33:36.825Z",
+      "created_at": "2026-06-21T19:33:36.825Z",
+      "embedding": null
+    },
+    {
+      "event_id": "5d5ee0ff-df7e-4d8d-8555-df961ba96e5b",
+      "trace_id": "46aabb3d-b1c5-46b2-a400-742b24f6065b",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T19:33:37.623Z",
+      "created_at": "2026-06-21T19:33:37.623Z",
+      "embedding": null
+    },
+    {
+      "event_id": "e7317e59-8c21-4122-8599-fb7f74812f91",
+      "trace_id": "22287766-bf08-49da-b733-ca7226cbace3",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T19:35:56.143Z",
+      "created_at": "2026-06-21T19:35:56.143Z",
+      "embedding": null
+    },
+    {
+      "event_id": "e3e118c5-3412-4522-8211-b38b3fc07703",
+      "trace_id": "395647db-00af-4010-955c-feaf5ae1e936",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T19:35:56.147Z",
+      "created_at": "2026-06-21T19:35:56.147Z",
+      "embedding": null
+    },
+    {
+      "event_id": "93014eec-ac56-4a09-932f-616b92a299b9",
+      "trace_id": "395647db-00af-4010-955c-feaf5ae1e936",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T19:35:56.147Z",
+      "created_at": "2026-06-21T19:35:56.147Z",
+      "embedding": null
+    },
+    {
+      "event_id": "5472be76-e7e8-42a3-a703-d479900be85f",
+      "trace_id": "395647db-00af-4010-955c-feaf5ae1e936",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T19:35:56.148Z",
+      "created_at": "2026-06-21T19:35:56.148Z",
+      "embedding": null
+    },
+    {
+      "event_id": "fad5cadd-7485-49df-8821-2a86ac341426",
+      "trace_id": "7d095a7e-d281-47c9-88e6-174a365af5fb",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T19:35:56.150Z",
+      "created_at": "2026-06-21T19:35:56.150Z",
+      "embedding": null
+    },
+    {
+      "event_id": "d698346d-d456-4bd1-8456-420a0229a22a",
+      "trace_id": "7cfa3458-956f-449e-af08-2408fccecde3",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T19:35:56.152Z",
+      "created_at": "2026-06-21T19:35:56.152Z",
+      "embedding": null
+    },
+    {
+      "event_id": "f8c3155a-d9e0-4b4b-8868-5217e220eb0b",
+      "trace_id": "719550fb-68aa-46f9-b28d-d79890dff8d7",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T19:35:56.961Z",
+      "created_at": "2026-06-21T19:35:56.961Z",
+      "embedding": null
+    },
+    {
+      "event_id": "157ee0e6-ba4c-46ac-afc7-0404d18bee00",
+      "trace_id": "719550fb-68aa-46f9-b28d-d79890dff8d7",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T19:35:56.961Z",
+      "created_at": "2026-06-21T19:35:56.961Z",
+      "embedding": null
+    },
+    {
+      "event_id": "4ca8b0fa-3091-4e33-a90f-73a5be41cded",
+      "trace_id": "719550fb-68aa-46f9-b28d-d79890dff8d7",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T19:35:56.962Z",
+      "created_at": "2026-06-21T19:35:56.962Z",
+      "embedding": null
+    },
+    {
+      "event_id": "28df5baf-56e3-42fb-9cf9-f4490e0babec",
+      "trace_id": "6cf5c36c-00e8-4fcd-a5ad-0b75b6abb9fb",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T19:35:56.966Z",
+      "created_at": "2026-06-21T19:35:56.966Z",
+      "embedding": null
+    },
+    {
+      "event_id": "a68d2e13-8b4d-4d3a-a7bc-b70187740fa5",
+      "trace_id": "6cf5c36c-00e8-4fcd-a5ad-0b75b6abb9fb",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T19:35:56.966Z",
+      "created_at": "2026-06-21T19:35:56.966Z",
+      "embedding": null
+    },
+    {
+      "event_id": "c657eded-b62e-486d-9c4b-99ad586fe41a",
+      "trace_id": "6cf5c36c-00e8-4fcd-a5ad-0b75b6abb9fb",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T19:35:56.967Z",
+      "created_at": "2026-06-21T19:35:56.967Z",
+      "embedding": null
+    },
+    {
+      "event_id": "80c79730-d9b0-4d3a-abb1-21689637daae",
+      "trace_id": "6cf5c36c-00e8-4fcd-a5ad-0b75b6abb9fb",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T19:35:56.968Z",
+      "created_at": "2026-06-21T19:35:56.968Z",
+      "embedding": null
+    },
+    {
+      "event_id": "d29b0398-d042-4246-b2df-f525fec481f9",
+      "trace_id": "6cf5c36c-00e8-4fcd-a5ad-0b75b6abb9fb",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T19:35:56.968Z",
+      "created_at": "2026-06-21T19:35:56.968Z",
+      "embedding": null
+    },
+    {
+      "event_id": "d85471fc-90f5-4c46-8c3c-975086aa2b69",
+      "trace_id": "67b569da-e8c5-4b7b-ba26-0fb02992a6d3",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T19:35:57.767Z",
+      "created_at": "2026-06-21T19:35:57.767Z",
+      "embedding": null
+    },
+    {
+      "event_id": "1b1368ef-998e-406f-9020-a85cc68a3c35",
+      "trace_id": "704cf036-5c5c-4fce-9a18-057abcacdf73",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T19:44:24.809Z",
+      "created_at": "2026-06-21T19:44:24.809Z",
+      "embedding": null
+    },
+    {
+      "event_id": "45fffe46-1fbe-488f-9bb4-16bfe774eda9",
+      "trace_id": "cab21464-a394-414d-a802-766c6e56c069",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T19:44:24.813Z",
+      "created_at": "2026-06-21T19:44:24.813Z",
+      "embedding": null
+    },
+    {
+      "event_id": "bc33ad00-2a04-4d05-85cf-3043deebda7a",
+      "trace_id": "cab21464-a394-414d-a802-766c6e56c069",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T19:44:24.814Z",
+      "created_at": "2026-06-21T19:44:24.814Z",
+      "embedding": null
+    },
+    {
+      "event_id": "ab3c13ca-67c0-4631-98df-3a38392fbe38",
+      "trace_id": "cab21464-a394-414d-a802-766c6e56c069",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T19:44:24.814Z",
+      "created_at": "2026-06-21T19:44:24.814Z",
+      "embedding": null
+    },
+    {
+      "event_id": "f7562a90-0878-480c-9eae-408f9390a636",
+      "trace_id": "e21d25dc-a136-4c7c-b8f1-2713a6c62608",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T19:44:24.817Z",
+      "created_at": "2026-06-21T19:44:24.817Z",
+      "embedding": null
+    },
+    {
+      "event_id": "42946e3c-7b44-49dc-a3c3-71f15977da96",
+      "trace_id": "130ba174-bfaf-4c6b-a760-e3d14862699e",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T19:44:24.820Z",
+      "created_at": "2026-06-21T19:44:24.820Z",
+      "embedding": null
+    },
+    {
+      "event_id": "6f9cea0b-e3e2-43c9-918e-83a5237a0ad9",
+      "trace_id": "0f468044-9aac-4f9d-accf-14ed24dfbd82",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T19:44:25.641Z",
+      "created_at": "2026-06-21T19:44:25.641Z",
+      "embedding": null
+    },
+    {
+      "event_id": "749e5566-0f17-44d9-890c-f99af64618ae",
+      "trace_id": "0f468044-9aac-4f9d-accf-14ed24dfbd82",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T19:44:25.641Z",
+      "created_at": "2026-06-21T19:44:25.641Z",
+      "embedding": null
+    },
+    {
+      "event_id": "3373dd22-f088-49c0-b91c-9dd71d623a70",
+      "trace_id": "0f468044-9aac-4f9d-accf-14ed24dfbd82",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T19:44:25.642Z",
+      "created_at": "2026-06-21T19:44:25.642Z",
+      "embedding": null
+    },
+    {
+      "event_id": "283d9cc3-cf64-4f86-8976-f8f2305fec8d",
+      "trace_id": "2a47d02f-4c41-48c7-9d4c-b922aaf20867",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T19:44:25.646Z",
+      "created_at": "2026-06-21T19:44:25.646Z",
+      "embedding": null
+    },
+    {
+      "event_id": "dcc85f2d-7a17-482e-b23c-bc9b9049e5ba",
+      "trace_id": "2a47d02f-4c41-48c7-9d4c-b922aaf20867",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T19:44:25.647Z",
+      "created_at": "2026-06-21T19:44:25.647Z",
+      "embedding": null
+    },
+    {
+      "event_id": "83ca96e5-9531-433e-a9fd-eae84f16efac",
+      "trace_id": "2a47d02f-4c41-48c7-9d4c-b922aaf20867",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T19:44:25.647Z",
+      "created_at": "2026-06-21T19:44:25.647Z",
+      "embedding": null
+    },
+    {
+      "event_id": "3263434b-d28f-4a79-a5aa-e02da3d359fe",
+      "trace_id": "2a47d02f-4c41-48c7-9d4c-b922aaf20867",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T19:44:25.649Z",
+      "created_at": "2026-06-21T19:44:25.649Z",
+      "embedding": null
+    },
+    {
+      "event_id": "cc3ca662-083a-452a-8e51-932eadf965b5",
+      "trace_id": "2a47d02f-4c41-48c7-9d4c-b922aaf20867",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T19:44:25.649Z",
+      "created_at": "2026-06-21T19:44:25.649Z",
+      "embedding": null
+    },
+    {
+      "event_id": "1e6144c8-22b2-423d-999e-15e0e111d666",
+      "trace_id": "f10c77ac-cd7b-4950-959c-70318f96e6de",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T19:44:26.475Z",
+      "created_at": "2026-06-21T19:44:26.475Z",
+      "embedding": null
+    },
+    {
+      "event_id": "0a02086d-99f9-4f66-9a08-50585453e643",
+      "trace_id": "9c25c9d0-7dbe-4e68-b1d1-1ae5b7fdecc7",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T20:23:01.138Z",
+      "created_at": "2026-06-21T20:23:01.138Z",
+      "embedding": null
+    },
+    {
+      "event_id": "1018a3ad-1f73-4298-91cc-258fb0f30d2a",
+      "trace_id": "73d2ff40-1b5b-4442-b3d7-75095fa9eebf",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T20:23:01.142Z",
+      "created_at": "2026-06-21T20:23:01.142Z",
+      "embedding": null
+    },
+    {
+      "event_id": "447ee113-0981-48d5-891d-bd25772cb4e3",
+      "trace_id": "73d2ff40-1b5b-4442-b3d7-75095fa9eebf",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T20:23:01.143Z",
+      "created_at": "2026-06-21T20:23:01.143Z",
+      "embedding": null
+    },
+    {
+      "event_id": "301c8bb0-8c36-4a2c-a29a-7c3bb6f27b55",
+      "trace_id": "73d2ff40-1b5b-4442-b3d7-75095fa9eebf",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T20:23:01.144Z",
+      "created_at": "2026-06-21T20:23:01.144Z",
+      "embedding": null
+    },
+    {
+      "event_id": "36d9ac90-4bae-430c-a3ad-c1d846ac880e",
+      "trace_id": "4d412be3-8663-4e5b-8556-7c1a43bf6632",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T20:23:01.147Z",
+      "created_at": "2026-06-21T20:23:01.147Z",
+      "embedding": null
+    },
+    {
+      "event_id": "28ba3d47-dd8a-42ea-8d75-5c02a2ec71d8",
+      "trace_id": "addc4086-007a-4226-ab80-8220ee41b1b9",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T20:23:01.149Z",
+      "created_at": "2026-06-21T20:23:01.149Z",
+      "embedding": null
+    },
+    {
+      "event_id": "a2349dce-5e69-4e57-b429-f54c6c7f6da8",
+      "trace_id": "bd3c530d-c4ea-4382-ae6a-358a3aa2689c",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T20:23:01.959Z",
+      "created_at": "2026-06-21T20:23:01.959Z",
+      "embedding": null
+    },
+    {
+      "event_id": "de0d4d69-419f-4ddf-a00b-3891bd5204de",
+      "trace_id": "bd3c530d-c4ea-4382-ae6a-358a3aa2689c",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T20:23:01.960Z",
+      "created_at": "2026-06-21T20:23:01.960Z",
+      "embedding": null
+    },
+    {
+      "event_id": "eb789712-138f-43dd-9993-519c5aef14e1",
+      "trace_id": "bd3c530d-c4ea-4382-ae6a-358a3aa2689c",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T20:23:01.961Z",
+      "created_at": "2026-06-21T20:23:01.961Z",
+      "embedding": null
+    },
+    {
+      "event_id": "0c3d5992-332f-4b2e-b854-7ce5572c0f37",
+      "trace_id": "54946b67-71d5-4af4-a2c1-e085cd8ddfa6",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T20:23:01.965Z",
+      "created_at": "2026-06-21T20:23:01.965Z",
+      "embedding": null
+    },
+    {
+      "event_id": "a9438480-6c2d-4e52-aafa-fef761c60523",
+      "trace_id": "54946b67-71d5-4af4-a2c1-e085cd8ddfa6",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T20:23:01.965Z",
+      "created_at": "2026-06-21T20:23:01.965Z",
+      "embedding": null
+    },
+    {
+      "event_id": "287e3bd9-bacf-45ce-a4fb-5cd5f0e5967c",
+      "trace_id": "54946b67-71d5-4af4-a2c1-e085cd8ddfa6",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T20:23:01.966Z",
+      "created_at": "2026-06-21T20:23:01.966Z",
+      "embedding": null
+    },
+    {
+      "event_id": "9f33533d-2af4-44d1-85c7-17d9bd70502e",
+      "trace_id": "54946b67-71d5-4af4-a2c1-e085cd8ddfa6",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T20:23:01.967Z",
+      "created_at": "2026-06-21T20:23:01.967Z",
+      "embedding": null
+    },
+    {
+      "event_id": "7b95a3da-7aaa-428a-b586-79d3ffbcb6c8",
+      "trace_id": "54946b67-71d5-4af4-a2c1-e085cd8ddfa6",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T20:23:01.968Z",
+      "created_at": "2026-06-21T20:23:01.968Z",
+      "embedding": null
+    },
+    {
+      "event_id": "859fe75d-882b-459e-86d1-b28cd71079c2",
+      "trace_id": "507de017-3e43-4685-a42b-1eecea37cd94",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T20:23:02.805Z",
+      "created_at": "2026-06-21T20:23:02.805Z",
+      "embedding": null
+    },
+    {
+      "event_id": "06fb77da-df70-48a0-a948-30339777e089",
+      "trace_id": "f953eeca-4c06-4e0b-9acc-3675392bf921",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T20:24:18.738Z",
+      "created_at": "2026-06-21T20:24:18.738Z",
+      "embedding": null
+    },
+    {
+      "event_id": "66f1e4c2-f12e-4c0c-bec0-c3a3d098ef94",
+      "trace_id": "b4e9a428-f5b1-41a7-ab5c-2a3ad0aa767c",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T20:24:18.743Z",
+      "created_at": "2026-06-21T20:24:18.743Z",
+      "embedding": null
+    },
+    {
+      "event_id": "cdc39a8e-ccbc-4f26-ae31-1ed2b83d1f7d",
+      "trace_id": "b4e9a428-f5b1-41a7-ab5c-2a3ad0aa767c",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T20:24:18.744Z",
+      "created_at": "2026-06-21T20:24:18.744Z",
+      "embedding": null
+    },
+    {
+      "event_id": "c7016dfa-5710-4e63-a7c0-3435dcb9a6ef",
+      "trace_id": "b4e9a428-f5b1-41a7-ab5c-2a3ad0aa767c",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T20:24:18.744Z",
+      "created_at": "2026-06-21T20:24:18.744Z",
+      "embedding": null
+    },
+    {
+      "event_id": "b19cf201-e5a4-48b4-9fab-d70f1165d981",
+      "trace_id": "ebedd1a8-3226-4065-9146-207d21836fad",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T20:24:18.747Z",
+      "created_at": "2026-06-21T20:24:18.747Z",
+      "embedding": null
+    },
+    {
+      "event_id": "805dedb9-4343-4c49-9881-96e28350ef80",
+      "trace_id": "7345a019-c946-403d-80d3-e5d4b1a45548",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T20:24:18.750Z",
+      "created_at": "2026-06-21T20:24:18.750Z",
+      "embedding": null
+    },
+    {
+      "event_id": "c68c1b04-e213-4e0a-957d-19d0e0e663a0",
+      "trace_id": "34ece2aa-7946-4e9b-8242-20909e327c5a",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T20:24:19.560Z",
+      "created_at": "2026-06-21T20:24:19.560Z",
+      "embedding": null
+    },
+    {
+      "event_id": "2963cb8d-4079-4fb9-a85c-ce0c3430585a",
+      "trace_id": "34ece2aa-7946-4e9b-8242-20909e327c5a",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T20:24:19.561Z",
+      "created_at": "2026-06-21T20:24:19.561Z",
+      "embedding": null
+    },
+    {
+      "event_id": "59b39dca-5bd8-4c65-b660-8f37e0b21217",
+      "trace_id": "34ece2aa-7946-4e9b-8242-20909e327c5a",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T20:24:19.562Z",
+      "created_at": "2026-06-21T20:24:19.562Z",
+      "embedding": null
+    },
+    {
+      "event_id": "e2a8ff2c-e1f3-4b28-aeaf-74616e564277",
+      "trace_id": "34831d0d-430e-42db-aa5b-319ce008c7a9",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T20:24:19.566Z",
+      "created_at": "2026-06-21T20:24:19.566Z",
+      "embedding": null
+    },
+    {
+      "event_id": "fe73f8c9-a53a-4844-bb06-8003b40801b1",
+      "trace_id": "34831d0d-430e-42db-aa5b-319ce008c7a9",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T20:24:19.567Z",
+      "created_at": "2026-06-21T20:24:19.567Z",
+      "embedding": null
+    },
+    {
+      "event_id": "df71b42d-af67-4024-8cd6-b27c45c79099",
+      "trace_id": "34831d0d-430e-42db-aa5b-319ce008c7a9",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T20:24:19.568Z",
+      "created_at": "2026-06-21T20:24:19.568Z",
+      "embedding": null
+    },
+    {
+      "event_id": "efc7c55a-a7d6-4f0b-a6ad-e49ae27e888c",
+      "trace_id": "34831d0d-430e-42db-aa5b-319ce008c7a9",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T20:24:19.569Z",
+      "created_at": "2026-06-21T20:24:19.569Z",
+      "embedding": null
+    },
+    {
+      "event_id": "b255f951-29db-4758-adf1-527f1b451297",
+      "trace_id": "34831d0d-430e-42db-aa5b-319ce008c7a9",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T20:24:19.570Z",
+      "created_at": "2026-06-21T20:24:19.570Z",
+      "embedding": null
+    },
+    {
+      "event_id": "e51eeece-b891-4ef9-bee6-3b26a2591177",
+      "trace_id": "c3521b3b-05e1-49a1-a730-ae1971db102c",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T20:24:20.386Z",
+      "created_at": "2026-06-21T20:24:20.386Z",
+      "embedding": null
+    },
+    {
+      "event_id": "d8027a18-614f-44e3-9136-810d109a8762",
+      "trace_id": "816ba9da-9db9-45a1-a452-0cabc7c71107",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T20:26:13.243Z",
+      "created_at": "2026-06-21T20:26:13.244Z",
+      "embedding": null
+    },
+    {
+      "event_id": "066e4545-ebd8-4acd-98dc-877cd6b6a116",
+      "trace_id": "5b28b38d-fa19-4ed0-a745-ede2fc32b4f0",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T20:26:13.248Z",
+      "created_at": "2026-06-21T20:26:13.248Z",
+      "embedding": null
+    },
+    {
+      "event_id": "a6488b56-02d8-4444-b7f4-5e30eab5a09a",
+      "trace_id": "5b28b38d-fa19-4ed0-a745-ede2fc32b4f0",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T20:26:13.249Z",
+      "created_at": "2026-06-21T20:26:13.249Z",
+      "embedding": null
+    },
+    {
+      "event_id": "561b7ddc-70ac-4ffa-aa20-b7955642df7d",
+      "trace_id": "5b28b38d-fa19-4ed0-a745-ede2fc32b4f0",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T20:26:13.249Z",
+      "created_at": "2026-06-21T20:26:13.249Z",
+      "embedding": null
+    },
+    {
+      "event_id": "892392e3-4393-4520-8aef-f66e8d11f425",
+      "trace_id": "095eeb54-e5b7-4248-bdcb-4fb4cd8efd81",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T20:26:13.252Z",
+      "created_at": "2026-06-21T20:26:13.252Z",
+      "embedding": null
+    },
+    {
+      "event_id": "52fb3842-fbd0-41af-8f8f-9577097847b9",
+      "trace_id": "b446af41-f50a-444f-a7bf-4871aadad24c",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T20:26:13.255Z",
+      "created_at": "2026-06-21T20:26:13.255Z",
+      "embedding": null
+    },
+    {
+      "event_id": "0667f663-a0e6-4a30-90dd-5c5d73655120",
+      "trace_id": "e17c0692-fa16-4937-b42c-76855a10dda5",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T20:26:14.073Z",
+      "created_at": "2026-06-21T20:26:14.073Z",
+      "embedding": null
+    },
+    {
+      "event_id": "97082687-9f81-458c-8ed5-37e724dba184",
+      "trace_id": "e17c0692-fa16-4937-b42c-76855a10dda5",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T20:26:14.074Z",
+      "created_at": "2026-06-21T20:26:14.074Z",
+      "embedding": null
+    },
+    {
+      "event_id": "b2840526-16ef-4efa-80b6-42420cfb10a9",
+      "trace_id": "e17c0692-fa16-4937-b42c-76855a10dda5",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T20:26:14.075Z",
+      "created_at": "2026-06-21T20:26:14.075Z",
+      "embedding": null
+    },
+    {
+      "event_id": "e1b00fd9-ded3-4e55-83c6-1bf29d137f39",
+      "trace_id": "ff28c09a-04ea-47d0-91b2-73758c9d4acb",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T20:26:14.080Z",
+      "created_at": "2026-06-21T20:26:14.080Z",
+      "embedding": null
+    },
+    {
+      "event_id": "cd73a14e-66ec-4399-a265-a5e64f1b8965",
+      "trace_id": "ff28c09a-04ea-47d0-91b2-73758c9d4acb",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T20:26:14.081Z",
+      "created_at": "2026-06-21T20:26:14.081Z",
+      "embedding": null
+    },
+    {
+      "event_id": "d0f0b770-f74d-496e-95ee-87c720d65a0c",
+      "trace_id": "ff28c09a-04ea-47d0-91b2-73758c9d4acb",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T20:26:14.081Z",
+      "created_at": "2026-06-21T20:26:14.081Z",
+      "embedding": null
+    },
+    {
+      "event_id": "6b99ba31-5448-4b20-8f9c-95f43a030f0d",
+      "trace_id": "ff28c09a-04ea-47d0-91b2-73758c9d4acb",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T20:26:14.083Z",
+      "created_at": "2026-06-21T20:26:14.083Z",
+      "embedding": null
+    },
+    {
+      "event_id": "949743bc-8649-40c6-9748-925765ede8d5",
+      "trace_id": "ff28c09a-04ea-47d0-91b2-73758c9d4acb",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T20:26:14.084Z",
+      "created_at": "2026-06-21T20:26:14.084Z",
+      "embedding": null
+    },
+    {
+      "event_id": "255fb69a-173b-4a8f-b948-36888450262e",
+      "trace_id": "2d40d225-dff6-4490-96f9-bfea19dbcd54",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T20:26:14.907Z",
+      "created_at": "2026-06-21T20:26:14.907Z",
+      "embedding": null
+    },
+    {
+      "event_id": "bc1de354-e623-4f8a-a7ce-725b8fa3fa04",
+      "trace_id": "064a0caf-7d02-4843-96c2-64910edc8aea",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T21:18:03.920Z",
+      "created_at": "2026-06-21T21:18:03.920Z",
+      "embedding": null
+    },
+    {
+      "event_id": "e30c5dcf-9491-4f37-a5d1-08af49ca54a1",
+      "trace_id": "3c4fc46b-3466-46f2-933c-74ab0b99fd00",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T21:18:03.924Z",
+      "created_at": "2026-06-21T21:18:03.924Z",
+      "embedding": null
+    },
+    {
+      "event_id": "82d71486-c21d-4e20-b669-12610ee53a8a",
+      "trace_id": "3c4fc46b-3466-46f2-933c-74ab0b99fd00",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T21:18:03.925Z",
+      "created_at": "2026-06-21T21:18:03.925Z",
+      "embedding": null
+    },
+    {
+      "event_id": "809f5cd2-5bfe-4323-a29b-5794fca2e91e",
+      "trace_id": "3c4fc46b-3466-46f2-933c-74ab0b99fd00",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T21:18:03.926Z",
+      "created_at": "2026-06-21T21:18:03.926Z",
+      "embedding": null
+    },
+    {
+      "event_id": "1d9a97be-2b03-41a7-9268-544b0d2bc2df",
+      "trace_id": "5baa8395-dfdd-4c86-a915-b05a69c7fa93",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T21:18:03.929Z",
+      "created_at": "2026-06-21T21:18:03.929Z",
+      "embedding": null
+    },
+    {
+      "event_id": "eaf4423e-8d5c-4abe-948c-4805a9146a0f",
+      "trace_id": "096bddcd-c012-43c1-9127-f3da783794c1",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T21:18:03.932Z",
+      "created_at": "2026-06-21T21:18:03.932Z",
+      "embedding": null
+    },
+    {
+      "event_id": "26f97bc5-0c18-4bce-af05-08ff79e5da37",
+      "trace_id": "1a9261c9-2ea9-4b6b-8cf5-cc41c835d31a",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T21:18:04.749Z",
+      "created_at": "2026-06-21T21:18:04.749Z",
+      "embedding": null
+    },
+    {
+      "event_id": "c6423395-0636-46f2-b244-10b31073e4c7",
+      "trace_id": "1a9261c9-2ea9-4b6b-8cf5-cc41c835d31a",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T21:18:04.750Z",
+      "created_at": "2026-06-21T21:18:04.750Z",
+      "embedding": null
+    },
+    {
+      "event_id": "03251e10-9436-4c0a-b8ce-e994c156b723",
+      "trace_id": "1a9261c9-2ea9-4b6b-8cf5-cc41c835d31a",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T21:18:04.751Z",
+      "created_at": "2026-06-21T21:18:04.751Z",
+      "embedding": null
+    },
+    {
+      "event_id": "6b2ce11e-0e24-42c2-ae27-7e2c9feee66f",
+      "trace_id": "1ea17599-52af-4a38-acd1-ab67030fc241",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T21:18:04.756Z",
+      "created_at": "2026-06-21T21:18:04.756Z",
+      "embedding": null
+    },
+    {
+      "event_id": "926ea1f8-a2aa-4931-8dd2-7105d3384bf9",
+      "trace_id": "1ea17599-52af-4a38-acd1-ab67030fc241",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T21:18:04.757Z",
+      "created_at": "2026-06-21T21:18:04.757Z",
+      "embedding": null
+    },
+    {
+      "event_id": "7d9f2ca8-596a-48ef-9db8-029264de98db",
+      "trace_id": "1ea17599-52af-4a38-acd1-ab67030fc241",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T21:18:04.757Z",
+      "created_at": "2026-06-21T21:18:04.757Z",
+      "embedding": null
+    },
+    {
+      "event_id": "399dce28-6e94-4262-9b96-f7c6056b654d",
+      "trace_id": "1ea17599-52af-4a38-acd1-ab67030fc241",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T21:18:04.759Z",
+      "created_at": "2026-06-21T21:18:04.759Z",
+      "embedding": null
+    },
+    {
+      "event_id": "be92217a-ddc0-4169-a87c-52091c026e4d",
+      "trace_id": "1ea17599-52af-4a38-acd1-ab67030fc241",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T21:18:04.760Z",
+      "created_at": "2026-06-21T21:18:04.760Z",
+      "embedding": null
+    },
+    {
+      "event_id": "41e7bafe-07d7-489d-8c1e-f4ac57cad454",
+      "trace_id": "debf59c9-9321-43d2-ab7e-e73bfe778857",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T21:18:05.570Z",
+      "created_at": "2026-06-21T21:18:05.570Z",
+      "embedding": null
+    },
+    {
+      "event_id": "26c5c14f-5681-4550-ac1d-e576a5c4bdbb",
+      "trace_id": "5089087f-fe80-4326-ae5f-1b451e93c487",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "build a calculator\n"
+      },
+      "timestamp": "2026-06-21T21:28:05.423Z",
+      "created_at": "2026-06-21T21:28:05.423Z",
+      "embedding": null
+    },
+    {
+      "event_id": "317f88d5-5b35-4040-a0ba-f074bc38a6be",
+      "trace_id": "5089087f-fe80-4326-ae5f-1b451e93c487",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "build a calculator\n"
+      },
+      "timestamp": "2026-06-21T21:28:05.425Z",
+      "created_at": "2026-06-21T21:28:05.425Z",
+      "embedding": null
+    },
+    {
+      "event_id": "bc41ff0e-984d-47b4-944a-5002993972a3",
+      "trace_id": "5089087f-fe80-4326-ae5f-1b451e93c487",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T21:28:05.426Z",
+      "created_at": "2026-06-21T21:28:05.426Z",
+      "embedding": null
+    },
+    {
+      "event_id": "608d1499-0f2d-4a96-a21c-2b2d24f1e0b6",
+      "trace_id": "46966e80-c9a9-4c8d-849e-e04b156bc900",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T21:28:52.157Z",
+      "created_at": "2026-06-21T21:28:52.157Z",
+      "embedding": null
+    },
+    {
+      "event_id": "272a55e5-2fe3-4df6-b100-b61960296563",
+      "trace_id": "76e6663e-6175-4ee7-bbba-d274cef5a9ce",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T21:28:52.162Z",
+      "created_at": "2026-06-21T21:28:52.162Z",
+      "embedding": null
+    },
+    {
+      "event_id": "a1227081-f2ce-49da-afe4-0aec51cafe14",
+      "trace_id": "76e6663e-6175-4ee7-bbba-d274cef5a9ce",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T21:28:52.163Z",
+      "created_at": "2026-06-21T21:28:52.163Z",
+      "embedding": null
+    },
+    {
+      "event_id": "d7d1a7f2-e38e-40f0-b3b9-ecebab0e1365",
+      "trace_id": "76e6663e-6175-4ee7-bbba-d274cef5a9ce",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T21:28:52.164Z",
+      "created_at": "2026-06-21T21:28:52.164Z",
+      "embedding": null
+    },
+    {
+      "event_id": "bb531941-f8a5-49f8-8806-09431ac6aba5",
+      "trace_id": "16b8ba3e-9136-4735-b29e-b25f688ebc15",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T21:28:52.167Z",
+      "created_at": "2026-06-21T21:28:52.167Z",
+      "embedding": null
+    },
+    {
+      "event_id": "113db2fa-bfc5-40ae-b1b2-9f340f74bbea",
+      "trace_id": "d24ccd06-e51b-4ae4-8f9e-524633531026",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T21:28:52.170Z",
+      "created_at": "2026-06-21T21:28:52.170Z",
+      "embedding": null
+    },
+    {
+      "event_id": "ca441f44-e2b7-4db3-ba80-862399b9f45f",
+      "trace_id": "f66f6bd4-8a23-41a7-89ec-7d183104be2a",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T21:28:52.998Z",
+      "created_at": "2026-06-21T21:28:52.998Z",
+      "embedding": null
+    },
+    {
+      "event_id": "e898fa70-a918-45bb-9291-83843353c8b8",
+      "trace_id": "f66f6bd4-8a23-41a7-89ec-7d183104be2a",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T21:28:52.999Z",
+      "created_at": "2026-06-21T21:28:52.999Z",
+      "embedding": null
+    },
+    {
+      "event_id": "d7d0b597-fe42-4ad1-a453-7edcb419f463",
+      "trace_id": "f66f6bd4-8a23-41a7-89ec-7d183104be2a",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T21:28:53.000Z",
+      "created_at": "2026-06-21T21:28:53.000Z",
+      "embedding": null
+    },
+    {
+      "event_id": "719b146b-1b32-401e-8839-9e91d20ff87f",
+      "trace_id": "0d9a3653-8419-4e5f-b150-df6ca38576b9",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T21:28:53.005Z",
+      "created_at": "2026-06-21T21:28:53.005Z",
+      "embedding": null
+    },
+    {
+      "event_id": "fb99837f-f43e-4199-bf55-f6e1fc9edbd4",
+      "trace_id": "0d9a3653-8419-4e5f-b150-df6ca38576b9",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T21:28:53.006Z",
+      "created_at": "2026-06-21T21:28:53.006Z",
+      "embedding": null
+    },
+    {
+      "event_id": "ceb81a22-b1ac-4ea0-b62a-e2eb9661a6ce",
+      "trace_id": "0d9a3653-8419-4e5f-b150-df6ca38576b9",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T21:28:53.007Z",
+      "created_at": "2026-06-21T21:28:53.007Z",
+      "embedding": null
+    },
+    {
+      "event_id": "e0ddd936-449c-44bd-92c6-3c02de64ecf7",
+      "trace_id": "0d9a3653-8419-4e5f-b150-df6ca38576b9",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T21:28:53.009Z",
+      "created_at": "2026-06-21T21:28:53.009Z",
+      "embedding": null
+    },
+    {
+      "event_id": "b69f4d7e-5072-4624-b8ec-569a37465c6b",
+      "trace_id": "0d9a3653-8419-4e5f-b150-df6ca38576b9",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T21:28:53.010Z",
+      "created_at": "2026-06-21T21:28:53.010Z",
+      "embedding": null
+    },
+    {
+      "event_id": "e5cb407e-5da2-422b-b58f-5a1ae4db7d78",
+      "trace_id": "aae88f96-db05-4acd-97bb-c4a3da978d46",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T21:28:53.817Z",
+      "created_at": "2026-06-21T21:28:53.817Z",
+      "embedding": null
+    },
+    {
+      "event_id": "ca55c123-fcf8-4c8d-8350-ef0acc46427d",
+      "trace_id": "fe7d6aa3-e7fb-4d48-a6d4-a0d637b229de",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T21:30:15.342Z",
+      "created_at": "2026-06-21T21:30:15.342Z",
+      "embedding": null
+    },
+    {
+      "event_id": "8e0d58ef-1e58-4789-a5bb-ae2901d94d41",
+      "trace_id": "d83b5c51-69c9-4508-8307-de2e3eed83de",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T21:30:15.346Z",
+      "created_at": "2026-06-21T21:30:15.346Z",
+      "embedding": null
+    },
+    {
+      "event_id": "309d6941-b276-4e15-8267-ea6cab67c4ae",
+      "trace_id": "d83b5c51-69c9-4508-8307-de2e3eed83de",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T21:30:15.347Z",
+      "created_at": "2026-06-21T21:30:15.347Z",
+      "embedding": null
+    },
+    {
+      "event_id": "3ca2f5d9-f20a-443e-8afd-a630e477bded",
+      "trace_id": "d83b5c51-69c9-4508-8307-de2e3eed83de",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T21:30:15.349Z",
+      "created_at": "2026-06-21T21:30:15.349Z",
+      "embedding": null
+    },
+    {
+      "event_id": "74caed3e-3fa9-410f-960a-1c3aff724eba",
+      "trace_id": "3ad6429d-02dc-48d7-ba78-6135d517d15d",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T21:30:15.352Z",
+      "created_at": "2026-06-21T21:30:15.352Z",
+      "embedding": null
+    },
+    {
+      "event_id": "74e389fd-3863-4698-82dc-6945438add8d",
+      "trace_id": "3b12ec2d-31b0-4462-aec9-455a814b124f",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T21:30:15.355Z",
+      "created_at": "2026-06-21T21:30:15.355Z",
+      "embedding": null
+    },
+    {
+      "event_id": "b0ed6466-0077-48e1-a03a-a02a6e4bc7cf",
+      "trace_id": "d49c9768-33a0-4562-bd42-8dfe262826c3",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T21:30:16.181Z",
+      "created_at": "2026-06-21T21:30:16.181Z",
+      "embedding": null
+    },
+    {
+      "event_id": "ffb898af-012f-4f5a-bf06-d7e450ddee7e",
+      "trace_id": "d49c9768-33a0-4562-bd42-8dfe262826c3",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T21:30:16.182Z",
+      "created_at": "2026-06-21T21:30:16.182Z",
+      "embedding": null
+    },
+    {
+      "event_id": "01a9b3c3-3d5c-4af3-ab46-a3db97472060",
+      "trace_id": "d49c9768-33a0-4562-bd42-8dfe262826c3",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T21:30:16.183Z",
+      "created_at": "2026-06-21T21:30:16.183Z",
+      "embedding": null
+    },
+    {
+      "event_id": "5dbb3c61-7157-4ae5-b652-c16bd198b726",
+      "trace_id": "65a1b0cd-99f8-41e9-91bb-29e42b1a2c43",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T21:30:16.188Z",
+      "created_at": "2026-06-21T21:30:16.188Z",
+      "embedding": null
+    },
+    {
+      "event_id": "06934e74-3e5f-4bfc-9431-ad47a23b481b",
+      "trace_id": "65a1b0cd-99f8-41e9-91bb-29e42b1a2c43",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T21:30:16.189Z",
+      "created_at": "2026-06-21T21:30:16.189Z",
+      "embedding": null
+    },
+    {
+      "event_id": "9fe425d4-e3bc-4f20-a3cc-85e310fafaa9",
+      "trace_id": "65a1b0cd-99f8-41e9-91bb-29e42b1a2c43",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T21:30:16.190Z",
+      "created_at": "2026-06-21T21:30:16.190Z",
+      "embedding": null
+    },
+    {
+      "event_id": "bd237dbc-f162-4069-a5c2-841a2bf35383",
+      "trace_id": "65a1b0cd-99f8-41e9-91bb-29e42b1a2c43",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T21:30:16.191Z",
+      "created_at": "2026-06-21T21:30:16.191Z",
+      "embedding": null
+    },
+    {
+      "event_id": "5d82f147-a475-4f54-830f-0db17ab1716a",
+      "trace_id": "65a1b0cd-99f8-41e9-91bb-29e42b1a2c43",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T21:30:16.192Z",
+      "created_at": "2026-06-21T21:30:16.192Z",
+      "embedding": null
+    },
+    {
+      "event_id": "d9fe0101-1834-42f1-86d7-190d27379a01",
+      "trace_id": "76739ae3-bc95-4061-b6eb-d0bf9a63a755",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T21:30:17.014Z",
+      "created_at": "2026-06-21T21:30:17.014Z",
+      "embedding": null
+    },
+    {
+      "event_id": "967169f0-f8bc-4224-b896-1d33b243f2dd",
+      "trace_id": "d8a95d19-c593-4604-bdd8-9529f8d37243",
+      "parent_event_id": null,
+      "actor": "tester",
+      "event_type": "unit_test_event",
+      "payload": {
+        "pass": true
+      },
+      "timestamp": "2026-06-21T21:39:16.779Z",
+      "created_at": "2026-06-21T21:39:16.779Z",
+      "embedding": null
+    },
+    {
+      "event_id": "7283310f-56a5-4dbd-a9b0-348b6ea9d945",
+      "trace_id": "c9222900-582e-4209-b401-99e9061a10a7",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_1",
+      "payload": {},
+      "timestamp": "2026-06-21T21:39:16.784Z",
+      "created_at": "2026-06-21T21:39:16.784Z",
+      "embedding": null
+    },
+    {
+      "event_id": "c058f6a9-b5c2-4aa0-8da4-08b638681e7a",
+      "trace_id": "c9222900-582e-4209-b401-99e9061a10a7",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_2",
+      "payload": {},
+      "timestamp": "2026-06-21T21:39:16.785Z",
+      "created_at": "2026-06-21T21:39:16.785Z",
+      "embedding": null
+    },
+    {
+      "event_id": "2b9dd173-56d4-4f8c-84a7-9c924f3492ee",
+      "trace_id": "c9222900-582e-4209-b401-99e9061a10a7",
+      "parent_event_id": null,
+      "actor": "engine",
+      "event_type": "step_3",
+      "payload": {},
+      "timestamp": "2026-06-21T21:39:16.786Z",
+      "created_at": "2026-06-21T21:39:16.786Z",
+      "embedding": null
+    },
+    {
+      "event_id": "768c01a9-3223-4098-956d-3bb81cfa4307",
+      "trace_id": "eea456b3-4c28-411d-9cec-0a25fe0d7fa9",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "tamper_target",
+      "payload": {},
+      "timestamp": "2026-06-21T21:39:16.789Z",
+      "created_at": "2026-06-21T21:39:16.789Z",
+      "embedding": null
+    },
+    {
+      "event_id": "7f8314f8-60c8-4264-b40d-bb6d431c1da7",
+      "trace_id": "e015f779-ab68-4768-9e09-ef2439d653dc",
+      "parent_event_id": null,
+      "actor": "adversary",
+      "event_type": "erase_target",
+      "payload": {},
+      "timestamp": "2026-06-21T21:39:16.792Z",
+      "created_at": "2026-06-21T21:39:16.792Z",
+      "embedding": null
+    },
+    {
+      "event_id": "777fc3fd-fab5-485d-8ec3-a5f54f8230a0",
+      "trace_id": "bbc3ba8c-9d6e-4a45-9f94-8c87cf5c1c13",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T21:39:17.589Z",
+      "created_at": "2026-06-21T21:39:17.589Z",
+      "embedding": null
+    },
+    {
+      "event_id": "ade770ea-4e16-4aea-8bc5-747166bbeacb",
+      "trace_id": "bbc3ba8c-9d6e-4a45-9f94-8c87cf5c1c13",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Initiate bootstrap sequence"
+      },
+      "timestamp": "2026-06-21T21:39:17.590Z",
+      "created_at": "2026-06-21T21:39:17.590Z",
+      "embedding": null
+    },
+    {
+      "event_id": "e11cd49e-1945-4df4-a6c1-0cc41c7680c4",
+      "trace_id": "bbc3ba8c-9d6e-4a45-9f94-8c87cf5c1c13",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T21:39:17.591Z",
+      "created_at": "2026-06-21T21:39:17.591Z",
+      "embedding": null
+    },
+    {
+      "event_id": "48396bf6-c737-4554-9b78-0083ebc8247a",
+      "trace_id": "1276ed07-aa55-4f4d-86e3-b79794488c40",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T21:39:17.596Z",
+      "created_at": "2026-06-21T21:39:17.596Z",
+      "embedding": null
+    },
+    {
+      "event_id": "0a0f432b-13c7-467d-b800-4b58aaf50a06",
+      "trace_id": "1276ed07-aa55-4f4d-86e3-b79794488c40",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Build a particle grid"
+      },
+      "timestamp": "2026-06-21T21:39:17.598Z",
+      "created_at": "2026-06-21T21:39:17.598Z",
+      "embedding": null
+    },
+    {
+      "event_id": "c513eda7-49a1-4aae-a8a7-23e6b6564d26",
+      "trace_id": "1276ed07-aa55-4f4d-86e3-b79794488c40",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Trace created. I will plan next."
+      },
+      "timestamp": "2026-06-21T21:39:17.600Z",
+      "created_at": "2026-06-21T21:39:17.600Z",
+      "embedding": null
+    },
+    {
+      "event_id": "46951e6d-0500-4eb7-ba11-e77ebe1419a3",
+      "trace_id": "1276ed07-aa55-4f4d-86e3-b79794488c40",
+      "parent_event_id": null,
+      "actor": "user",
+      "event_type": "user_message",
+      "payload": {
+        "message": "Calibrate secondary grid sensors"
+      },
+      "timestamp": "2026-06-21T21:39:17.602Z",
+      "created_at": "2026-06-21T21:39:17.602Z",
+      "embedding": null
+    },
+    {
+      "event_id": "08a2258a-d974-437a-9ca4-f539a41574a0",
+      "trace_id": "1276ed07-aa55-4f4d-86e3-b79794488c40",
+      "parent_event_id": null,
+      "actor": "assistant",
+      "event_type": "assistant_message",
+      "payload": {
+        "message": "Message recorded."
+      },
+      "timestamp": "2026-06-21T21:39:17.604Z",
+      "created_at": "2026-06-21T21:39:17.604Z",
+      "embedding": null
+    },
+    {
+      "event_id": "11edc0aa-b419-4584-8d24-b7252e4d0f65",
+      "trace_id": "cd2077c6-e5e1-4db7-9ad8-08344a215cad",
+      "parent_event_id": null,
+      "actor": "system",
+      "event_type": "trace_created",
+      "payload": {
+        "goal": "Calibrate cooling matrix"
+      },
+      "timestamp": "2026-06-21T21:39:18.404Z",
+      "created_at": "2026-06-21T21:39:18.404Z",
+      "embedding": null
+    }
+  ]
+}
